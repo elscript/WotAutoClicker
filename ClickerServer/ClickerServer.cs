@@ -48,7 +48,7 @@ namespace ClickerServer
 		/// <param name="listener"></param>
 		public void Subscribe(IListener listener)
 		{
-			
+			//Смотрим на голову
 		}
 
 		/// <summary>
