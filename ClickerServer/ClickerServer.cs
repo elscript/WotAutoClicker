@@ -16,8 +16,6 @@ namespace ClickerServer
 		/// </summary>
 		private static ClickerServer _instance;
 
-		///
-
 		/// <summary>
 		/// Приватный конструктор, т.к. используется шаблон "Singleton"
 		/// </summary>
