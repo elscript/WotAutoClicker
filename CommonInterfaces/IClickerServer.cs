@@ -8,7 +8,7 @@ namespace CommonInterfaces
 {
     public interface IClickerServer
     {
-	    void Subscribe(IListener listener);
+	    void Subscribe(IListener listener); //
 		void Unsubscribe(IListener listener);
     }
 }

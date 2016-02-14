@@ -48,7 +48,7 @@ namespace ClickerServer
 		/// <param name="listener"></param>
 		public void Subscribe(IListener listener)
 		{
-			//Смотрим на голову
+			throw new NotImplementedException();
 		}
 
 		/// <summary>
@@ -56,7 +56,7 @@ namespace ClickerServer
 		/// </summary>
 		public void Unsubscribe(IListener listener)
 		{
-			
+			throw new NotImplementedException();
 		}
 	}
 }
