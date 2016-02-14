@@ -56,7 +56,7 @@ namespace ClickerServer
 		/// </summary>
 		public void Unsubscribe(IListener listener)
 		{
-			throw new NotImplementedException();
+			
 		}
 	}
 }
